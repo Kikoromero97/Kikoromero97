@@ -1,6 +1,6 @@
-- 👋 Hola, soy Francisco Romero Gálvez, vivo en Villajoyosa, tengo 25 años y he estudiado Grado Medio de Informática.
+- 👋 Hola, me llamo Francisco, vivo en Villajoyosa, tengo 28 años y he estudiado Grado Medio de Informática y Superior de Desarrollo de Aplicaciones Multiplataforma.
 - 👀 Estoy interesado ahora mismo en estudiar programación y en aprender Unreal Engine y Unity.
-- 🌱 Ahora mismo estoy aprendiendo Java, HTML y CSS. Desarrollo de Aplicaciones Multiplataforma ahora mismo. 
+- 🌱 Ahora mismo conozco HTML, CSS, JavaScript, REACT.JS, C#. 
 - 💞️ Me gustaría colaborar con otros desarrolladores de videojuegos.
 - 📫 Para contactarme, mi correo es kikoromero1997@gmail.com.
 
